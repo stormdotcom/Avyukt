@@ -75,7 +75,7 @@ Please remember that the Framework is still under Beta Developement, More Upgrad
 
 For Eg. I was to use the 1st Payload, Simply type `1` or any other number in the menu you wanna use
 
-After you choose the payload you want to use, You will have to enter values for `Name`, `LHOST` and `LPORT`. After you have given values for these parameters, You simply have to choose `y` or `n` if you have to add icon to the Executable which will be generated. `Please note only .ico files are supported`. After you enter the values you have to give the raw python script path which will be generated in the `Output` Folder. Simple type `Output/<your scriptname.py>`. Now, You have to enter the path to the `.ico` file and the Framework will do the rest.
+After you choose the payload you want to use, You will have to enter values for `Name`, `LHOST` and `LPORT`. After you have given values for these parameters, You simply have to choose `y` or `n` if you have to add icon to the Executable which will be generated. `Please note only .ico files are supported`.Now, You have to enter the path to the `.ico` file and the Framework will do the rest.
 
 ![Capture](https://user-images.githubusercontent.com/67494275/90959231-5a19a680-e4b7-11ea-90db-5fe2bc62ba31.PNG)
 
