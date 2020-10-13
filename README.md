@@ -132,6 +132,9 @@ If no one replies within 24 Hours, Please contact here
 `5016.stkabirdio@gmail.com`
 `pentestmadefun@gmail.com`
 
+# Make sure to join my Discord Server if you need instant support!
+    https://discord.gg/QqCRbsr
+
 # Special Thanks To
    * `GOWTHAM-OFFICIAL-PGN`
    * `Diego Perez`
