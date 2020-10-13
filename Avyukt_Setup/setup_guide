@@ -1,0 +1,11 @@
+How to run the setup file?? 
+
+First, Run these 3 commands before running the setup file 
+
+`sudo apt-get update`
+`pip install colorama`
+`pip install pyfiglet`
+
+Now, run the setup file using this command `python ./setup.py`
+Setup will start on it's on, Just wait for somtime and it will be completed,
+After the setip gets completed, You are ready to go! You can run the Framework
