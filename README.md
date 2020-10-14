@@ -1,3 +1,16 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qdpd7mc)
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Vedant-Bhalgama/)
+
+
+
+
+
+
+
 # Avyukt - Exploitation Framework (Beta Version)
 Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS. For now, I have only released a **Beta Version** for now. More updated features and better payloads are going to be added soon in the final version.
 
@@ -132,8 +145,6 @@ If no one replies within 24 Hours, Please contact here
 `5016.stkabirdio@gmail.com`
 `pentestmadefun@gmail.com`
 
-# Make sure to join my Discord Server if you need instant support!
-    https://discord.gg/QqCRbsr
 
 # Special Thanks To
    * `GOWTHAM-OFFICIAL-PGN`
@@ -143,6 +154,7 @@ If no one replies within 24 Hours, Please contact here
    * `Dimitris Kalopisis`
 
 
+[![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/Vedant-Bhalgama/github-readme-stats)
 
 
 ## Made with ❤️ by Vedant Bhalgama ##
