@@ -154,7 +154,4 @@ If no one replies within 24 Hours, Please contact here
    * `Dimitris Kalopisis`
 
 
-[![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/Vedant-Bhalgama/github-readme-stats)
-
-
 ## Made with ❤️ by Vedant Bhalgama ##
