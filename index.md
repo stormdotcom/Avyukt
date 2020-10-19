@@ -1,37 +1,145 @@
-## Welcome to GitHub Pages
+# Avyukt - Exploitation Framework (Beta Version)
+Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS. For now, I have only released a **Beta Version** for now. More updated features and better payloads are going to be added soon in the final version.
 
-You can use the [editor on GitHub](https://github.com/Vedant-Bhalgama/Avyukt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# General Info about the Framework
+Avyukt is a Framework which can generate Malicious Payloads for getting remote access on Windows Computers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Framework is still under Developement and I am just releasing a Beta Version of it right now
 
-### Markdown
+**Please keep in mind that my Framework nor me is going to be responsible for Illegal Purposes, This is only made for Penetration Testing Purpose for White-Hat Hackers**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**I have not added the WebCam Streamer for Avyukt Payloads for now as you must have seen it in the video tutorial as the WebCam streamer is not stable for everyone right now, I will surely release it in the next Version.**
 
-```markdown
-Syntax highlighted code block
+`Framework Version : 1.1.1 (Beta)`
 
-# Header 1
-## Header 2
-### Header 3
+`Developed by : Vedant-Bhalgama`
 
-- Bulleted
-- List
+`Framework Testers : GOWTHAM-OFFICIAL-PGN`
 
-1. Numbered
-2. List
+# Update 1.1.1 (Beta)
 
-**Bold** and _Italic_ and `Code` text
+* Added new and Improved UI at the Boot of the Framework 
 
-[Link](url) and ![Image](src)
-```
+* Added a new feature where the Framework will ask if you want to copy the executable to Apache Webserver
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Added Linux Backdoor (It might contain some bugs, If you find any then please report them to me!)
 
-### Jekyll Themes
+# Setting Up Avyukt
+To use the Framework, You can simply download it as a ZIP File or you can clone it using this command
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vedant-Bhalgama/Avyukt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`git clone https://github.com/Vedant-Bhalgama/Avyukt.git`
 
-### Support or Contact
+**Before running the setup.py run these 2 commands first or else you will get error**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`pip install colorama`
+
+`pip install pyfiglet`
+
+Now, You need to direct to the directory `Avyukt_Setup` to run the setup.py file.
+
+Simply type this command to run the setup
+
+`python ./setup.py`
+
+![Capture](https://user-images.githubusercontent.com/67494275/90950281-ad670700-e46d-11ea-8f8f-270600a620b9.PNG)
+
+# Getting Started with Avyukt
+To start the Framework, You need to run this command
+
+`python ./Avyukt.py`
+
+You will see a menu like this
+
+![Capture](https://user-images.githubusercontent.com/67494275/90904157-89afac80-e3ec-11ea-8e71-e3e3db914f26.PNG)
+
+If you run the Framework for the first time, Directory called `Output` will be created
+
+To Generate **Malicious Payload**, Type 1
+
+To use **Listeners**, Type 2
+
+To use **Help**, Type 3
+
+To **Exit Framework**, Type 4
+
+# Evasion 
+You will get a view like this when you enter the Evasion Menu
+
+![Screenshot 2020-09-06 at 8 40 14 PM](https://user-images.githubusercontent.com/67494275/92328866-6853ef00-f081-11ea-91e5-64f98f69439b.png)
+
+Please remember that the Framework is still under Beta Developement, More Upgrades and Updates are going to come soon
+
+**For the best results, Please use 1st payload or In-Built Avyukt Payloads as they are the best in Bypassing Anti-Virus. New implementations are going to be added soon**
+
+**While generating Paylods, Keep a legit name of the Backdoor which is going to be generated as they also help in Bypassing AV, If you keep a name which looks malicious like test.exe or payload.exe it will be easily detected**
+
+For Eg. I was to use the 1st Payload, Simply type `1` or any other number in the menu you wanna use
+
+After you choose the payload you want to use, You will have to enter values for `Name`, `LHOST` and `LPORT`. After you have given values for these parameters, You simply have to choose `y` or `n` if you have to add icon to the Executable which will be generated. `Please note only .ico files are supported`.Now, You have to enter the path to the `.ico` file and the Framework will do the rest.
+
+![Capture](https://user-images.githubusercontent.com/67494275/90959231-5a19a680-e4b7-11ea-90db-5fe2bc62ba31.PNG)
+
+# Handlers
+You will see a view like this after you enter the Handler Menu
+
+![Capture](https://user-images.githubusercontent.com/67494275/90950451-2b77dd80-e46f-11ea-90da-de2fdee3c237.PNG)
+
+What is Avyukt Handler?
+  * Avyukt Handler is the Default Handler for the In-Built Avyukt Payloads which were Programmed by me
+  * Payloads like `python/Avyukt/reverse_tcp` are compatible with Avyukt Handler
+  
+What is NetCat Handler?
+  * NetCat is a very popular tool which you must be knowing.
+  * There are some payloads in the Framework which require NetCat as a listener
+
+What is Metasploit?
+  * Come on man, You must be knowing about Metasploit, I dont have to tell it!
+  
+# Features of Avyukt Payload
+Here are some of the features which are found in the default Avyukt Payloads, Avyukt Payloads are programmed by me in Python.
+  * **Screenshot Ability**
+  * **Upload Files**
+  * **Download Files**
+  * **Webcam Hacking and streaming live (I have not added it in this release as it is not stable, I will add it in the next update)**
+  * **Execute any System Command (notepad.exe or any other system command)**
+  * **Directory Navigation (cd command)**
+  * **Persistent**
+
+# Suggestion Form
+Having Ideas for Framework? Don't be shy! Submit them here 
+
+`https://docs.google.com/forms/d/1YKYxLAYj0R0P5TS3bnnPkdGVKZuiS6rrWCLgH_2Kzao`
+
+# Video Tutorial for Framework
+
+[Click Here](https://www.youtube.com/watch?v=ecPv9EEsbnY)
+
+**Is this safe to Click on *Click Here?***
+* The link is fully secure, It directly leads to this YouTube Video Link : https://www.youtube.com/watch?v=ecPv9EEsbnY
+
+# New implementations going to be added next in 1.1.2
+
+   * More Undetectable Payloads going to be added 
+   * Webcam Snap (Take images of Target from their WebCam)
+   * New Listener View
+   
+# Report Issues
+Found Bugs in the framework? Report them here to help me improve the Framework
+
+`https://github.com/Vedant-Bhalgama/Avyukt/issues`
+
+If no one replies within 24 Hours, Please contact here
+
+`5016.stkabirdio@gmail.com`
+`pentestmadefun@gmail.com`
+
+
+# Special Thanks To
+   * `GOWTHAM-OFFICIAL-PGN`
+   * `Diego Perez`
+   * `Zaid Sabih`
+   * `Kunal Mangalorekar`
+   * `Dimitris Kalopisis`
+
+
+## Made with ❤️ by Vedant Bhalgama ##
