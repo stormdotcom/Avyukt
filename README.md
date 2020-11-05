@@ -28,6 +28,7 @@ The Framework is still under Developement and I am just releasing a Beta Version
 `Framework Testers : GOWTHAM-OFFICIAL-PGN`
 
 # Update 1.1.1 (Beta)
+* Payloads now compatible with Ngrok ... Watch this video to know more : https://www.youtube.com/watch?v=RVmbnLr7jSU
 
 * Added new and Improved UI at the Boot of the Framework 
 
