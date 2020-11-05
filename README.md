@@ -152,6 +152,6 @@ If no one replies within 24 Hours, Please contact here
    * `Zaid Sabih`
    * `Kunal Mangalorekar`
    * `Dimitris Kalopisis`
-
+   * `Razin Mahmood``
 
 ## Made with ❤️ by Vedant Bhalgama ##
