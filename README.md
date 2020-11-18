@@ -134,6 +134,7 @@ Having Ideas for Framework? Don't be shy! Submit them here
    * More Undetectable Payloads going to be added 
    * Webcam Snap (Take images of Target from their WebCam)
    * New Listener View
+   * **Please note that in the next Update, The framework won't be more compatible to Python2, It will be shifted to Python3!**
    
 # Report Issues
 Found Bugs in the framework? Report them here to help me improve the Framework
