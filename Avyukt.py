@@ -564,6 +564,7 @@ def details(version, Operating_System, release):
     time.sleep(1)
     if not os.path.exists("/var/www/html/Generated"):
         print(Fore.GREEN + "[OK] " + Fore.WHITE + "Creating new directory in Apache Folder")
+        os.system("mkdir /var/www/html/Generated")
         time.sleep(1)
         print(Fore.GREEN + "[OK] " + Fore.WHITE + "Successfully created new directory in Apache Folder")
         time.sleep(1)
