@@ -43,9 +43,7 @@ To use the Framework, You can simply download it as a ZIP File or you can clone 
 
 **Before running the setup.py run these 2 commands first or else you will get error**
 
-`pip install colorama`
-
-`pip install pyfiglet`
+`python -m pip install -r requirements.txt`
 
 Now, You need to direct to the directory `Avyukt_Setup` to run the setup.py file.
 
