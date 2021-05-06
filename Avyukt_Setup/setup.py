@@ -19,7 +19,7 @@ try:
         print(Fore.YELLOW + "\n[+] OS Release : " + platform.release())
         print(Fore.CYAN + "\n[+] Starting Setup, Please wait ... ")
         time.sleep(5)
-        start_installation = raw_input("\nAvyukt>: Type y if you want to start installation else n >> ")
+        start_installation = input("\nAvyukt>: Type y if you want to start installation else n >> ")
         if "y" in start_installation:
             print("\n[+] Starting Installation .... Sit Back and Relax!")
             print(Fore.CYAN + "\n\t[+] Updating Packages using apt-get update")
@@ -51,7 +51,7 @@ try:
             print(Fore.CYAN + "\n\t[+] Installing PyautoGUI")
             os.system("wine python.exe -m pip install pyautogui")
             os.system("pip install pyautogui")
-            raw_input(Fore.GREEN + "\n[+] Setup was completed, Press enter to continue")
+            input(Fore.GREEN + "\n[+] Setup was completed, Press enter to continue")
             os.system("reset")
 
         if "n" in start_installation:
