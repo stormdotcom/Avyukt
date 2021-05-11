@@ -142,12 +142,4 @@ If no one replies within 24 Hours, Please contact here
 `pentestmadefun@gmail.com`
 
 
-# Special Thanks To
-   * `GOWTHAM-OFFICIAL-PGN`
-   * `Diego Perez`
-   * `Zaid Sabih`
-   * `Kunal Mangalorekar`
-   * `Dimitris Kalopisis`
-   * `Razin Mahmood``
-
 ## Made with ❤️ by Vedant Bhalgama ##
